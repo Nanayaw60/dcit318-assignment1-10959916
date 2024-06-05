@@ -1,0 +1,7 @@
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.exe.config
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.exe
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.pdb
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.exe
+C:\Users\admin\Source\Repos\Nanayaw60\dddcit318-assignment1-10959916\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.pdb

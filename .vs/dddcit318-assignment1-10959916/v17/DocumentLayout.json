@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B26150-ACD7-475B-9102-CC9816E49478}|Ticket Price Calculator\\Ticket Price Calculator.csproj|c:\\users\\admin\\source\\repos\\nanayaw60\\dddcit318-assignment1-10959916\\ticket price calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B26150-ACD7-475B-9102-CC9816E49478}|Ticket Price Calculator\\Ticket Price Calculator.csproj|solutionrelative:ticket price calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E239D56D-6816-476A-99C8-DD82606C59A3}|Triangle Type Identifier\\Triangle Type Identifier.csproj|c:\\users\\admin\\source\\repos\\nanayaw60\\dddcit318-assignment1-10959916\\triangle type identifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E239D56D-6816-476A-99C8-DD82606C59A3}|Triangle Type Identifier\\Triangle Type Identifier.csproj|solutionrelative:triangle type identifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB601D-4372-46E8-A2C2-D488F79058B0}|GradeCalculatorApp\\GradeCalculatorApp.csproj|c:\\users\\admin\\source\\repos\\nanayaw60\\dddcit318-assignment1-10959916\\gradecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DB601D-4372-46E8-A2C2-D488F79058B0}|GradeCalculatorApp\\GradeCalculatorApp.csproj|solutionrelative:gradecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\Ticket Price Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket Price Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\Ticket Price Calculator\\Program.cs",
+              "RelativeToolTip": "Ticket Price Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:00:38.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\Triangle Type Identifier\\Program.cs",
+              "RelativeDocumentMoniker": "Triangle Type Identifier\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\Triangle Type Identifier\\Program.cs",
+              "RelativeToolTip": "Triangle Type Identifier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:42.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\GradeCalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "GradeCalculatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nanayaw60\\dddcit318-assignment1-10959916\\GradeCalculatorApp\\Program.cs",
+              "RelativeToolTip": "GradeCalculatorApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:46:57.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
